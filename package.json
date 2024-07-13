@@ -1,0 +1,7 @@
+{
+  "name": "repro-tsx-esm-api",
+  "version": "0.0.0",
+  "devDependencies": {
+    "tsx": "^4.16.2"
+  }
+}
